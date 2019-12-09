@@ -66,3 +66,6 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
+
+- [x] First Version: Monday, 9 Dec 2019 - Android Studio
+> Created by Saliou DJALO
